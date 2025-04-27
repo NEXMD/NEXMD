@@ -1,0 +1,11 @@
+- 🔥 Hi, I’m @NEXMD
+- 👀 I’m passionate about robotics, coding, 3D modeling, mechatronics engineering, and debating
+- 🌱 I’m currently sharpening my skills in advanced robotics, Python development, and Java programming
+- 🏆 I've won several robotics competitions, including:
+  - 🧠 AI Building Competition (designed intelligent decision-making bots)
+  - ⚡ Line Tracing Competition (optimized fastest and most accurate bots)
+  - 🤖 RoboX Sumo (built powerful mini sumo robots for competitive battles)
+  - 🛡️ BattleBot Arena (designed and fought with customized battle-ready robots)
+- 🛠️ I’m also working on a side project: an automatic schedule arranger that intelligently plans tasks based on priorities and deadlines
+- 🏐 I love playing volleyball and engaging in spirited debates during my free time
+- 🧠 Bonus: Always open for a good debate about why Rimuru Tempest is easily one of the strongest characters in all of fiction — prove me wrong if you can 😉
